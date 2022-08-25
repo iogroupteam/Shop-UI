@@ -1,0 +1,148 @@
+[
+    {
+        "model": "Air Jordan 1 Mid SE",
+        "price": 135,
+        "is_save": true,
+        "colors": [
+            "0xffFEB139",
+            "0xffFFF80A",
+            "0xffEB1D36",
+            "0xff1F4690",
+            "0xff000000",
+            "0xffffffff"
+        ],
+        "sizes": [
+            36,
+            38,
+            40,
+            41
+        ],
+        "images": [
+            "assets/11.png",
+            "assets/11.1.png",
+            "assets/1.2.png",
+            "assets/1.3.png",
+            "assets/1.4.png"
+        ]
+    },
+    {
+        "model": "Air Jordan 11 CMFT Low",
+        "price": 130,
+        "is_save": false,
+        "colors": [
+            "0xffF32424",
+            "0xff000000",
+            "0xffffffff"
+        ],
+        "sizes": [
+            40,
+            41,
+            42
+        ],
+        "images": [
+            "assets/12.png",
+            "assets/12.1.png",
+            "assets/2.2.png",
+            "assets/2.3.png"
+        ]
+    },
+    {
+        "model": "LeBorn Witness 5",
+        "price": 94,
+        "is_save": false,
+        "colors": [
+            "0xff000000",
+            "0xffF32424",
+            "0xff2155CD"
+        ],
+        "sizes": [
+            42,
+            44
+        ],
+        "images": [
+            "assets/13.png",
+            "assets/13.png",
+            "assets/13.png"
+        ]
+    },
+    {
+        "model": "Air Jordan 1 Mid",
+        "price": 120,
+        "is_save": false,
+        "colors": [
+            "0xffF8CB2E"
+        ],
+        "sizes": [
+            38,
+            39,
+            40
+        ],
+        "images": [
+            "assets/14.png",
+            "assets/14.png"
+        ]
+    },
+    {
+        "model": "Nike Air Force 1",
+        "price": 69,
+        "is_save": true,
+        "colors": [
+            "0xff000000",
+            "0xffffffff"
+        ],
+        "sizes": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ],
+        "images": [
+            "assets/15.png",
+            "assets/15.png"
+        ]
+    },
+    {
+        "model": "Nike Air Zoom Pegasus 38",
+        "price": 84,
+        "is_save": false,
+        "colors": [
+            "0xffDFDFDE",
+            "0xff61A4BC",
+            "0xff000000"
+        ],
+        "sizes": [
+            36,
+            37,
+            38
+        ],
+        "images": [
+            "assets/16.png",
+            "assets/16.png",
+            "assets/16.png"
+        ]
+    },
+    {
+        "model": "Nike Air Max 270",
+        "price": 160,
+        "is_save": false,
+        "colors": [
+            "0xffFEB139",
+            "0xffFFF80A",
+            "0xffEB1D36",
+            "0xff1F4690",
+            "0xff000000",
+            "0xffffffff",
+            "0xffF7E2E2",
+            "0xffAD8B73"
+        ],
+        "sizes": [
+            40,
+            42
+        ],
+        "images": [
+            "assets/17.png",
+            "assets/17.png"
+        ]
+    }
+]
