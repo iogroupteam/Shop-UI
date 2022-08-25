@@ -1,3 +1,3 @@
 # Shop UI
 
-![SHOES_STORE](/shop.PNG)
+![SHOES_STORE](/first_project.PNG)
